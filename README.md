@@ -1,4 +1,4 @@
-# challenge-amigo-secreto
+# challenge Amigo Secreto
 
 El proyecto **Amigo Secreto** es challenge de Alura que permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleatorio para determinar quién será el "amigo secreto".
 
